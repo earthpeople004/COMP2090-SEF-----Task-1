@@ -1,0 +1,14 @@
+User Guide
+To operate the program, please ensure you have downloaded all necessary Python files (Account_Info.py, Question_Bank.py, Login.py, Student.py, and Teacher.py) and run Login.py. There will be no response if you run other files.
+1.Ensure all python files are downloaded (total: 5), then run login.py.
+2.The login page will be showed when the program runs successfully.
+3.Type the account number and password to login, please refer to the student_list or teacher_list. A welcome message box can be seen after successful login.
+4.When you see home page, please choose the subpage you want to try by clicking the buttons on top. There will be Home, Quiz and Practice for students and Home, Quiz Edit, and Level Adjustment for teachers.
+5.In Quiz page, please answer all questions and submit the quiz by clicking the "Submit" button. The system will calculate your scores and store the incorrectly answered questions to the Practice page
+6.During the quiz. you can switch between questions with "Back" or "Next" buttons. You can also save the quiz question using the checkbox.
+7.In Practice page, you will receive a message box if you haven't done the quiz yet. If the page contains quiz questions, you are required to answer the questions correctly in order to remove them from the Practice page.
+8.The "Next" button will be available only when you answered the current question correctly.
+9.The practice will end when you receive a message box after clicking the "Next" button.
+10.Teachers can click “Quiz Edit” and choose the level to edit the questions, options and answers in the question bank.
+11.Teachers can edit the question and choices by typing into the entry fields and change the correct answer by choosing the choices from the combobox.
+12.In Level Adjustment page, teachers can change student's level by selecting the buttons labeled with different levels.
